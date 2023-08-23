@@ -14,6 +14,7 @@
 
 
 ## ANALYSIS PARAMETERS
+### ANALYSIS FILE: ChatBot Fine-Tuning.ipynb
 ### BASED ON: https://blog.gopenai.com/fine-tuning-dialogpt-medium-on-daily-dialog-dataset-a-step-by-step-guide-4eaecc1b9323
 ### Train Data: https://drive.google.com/file/d/1WPY3HB3BlXD-Pflk-CbN60_rTQ8eMNlt/view
 ### LLM Model: DialoGPT-Medium @ HuggingFace
