@@ -4,12 +4,12 @@
 ### FINE-TUNE LLM ChatBot to enable it to answer the TECH INTERVIEW questions
 
 ## EXAMPLE:
-### Question: "Define nearest neighbour algorithm..."
-### Answer Not Fine-Tuned: "I'm not sure what that means, but I'm sure it's a good thing.""
-### Answer Fine-Tuned: "The nearest neighbour algorithm was one of the first algorithms used to determine a solution to the travelling salesman problem."
-###   - The Fine-Tuned answer is much better, revealing the model has learnt from the new data
-###   - But the Fine-Tuned answer is not a very extensive since the training data is rather "shallow". 
-###   - Basing training data on WIKIPEDIA would definatively improve the "RICHNESS" of the answers.
+#### Question: "Define nearest neighbour algorithm..."
+#### Answer Not Fine-Tuned: "I'm not sure what that means, but I'm sure it's a good thing.""
+#### Answer Fine-Tuned: "The nearest neighbour algorithm was one of the first algorithms used to determine a solution to the travelling salesman problem."
+####   - The Fine-Tuned answer is much better, revealing the model has learnt from the new data
+####   - But the Fine-Tuned answer is not a very extensive since the training data is rather "shallow". 
+####   - Basing training data on WIKIPEDIA would definatively improve the "RICHNESS" of the answers.
 
 ## ANALYSIS PARAMETERS
 ### BASED ON: https://blog.gopenai.com/fine-tuning-dialogpt-medium-on-daily-dialog-dataset-a-step-by-step-guide-4eaecc1b9323
